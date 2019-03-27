@@ -1,0 +1,29 @@
+ @charset utf8;
+
+/*imagem do carousel*/
+#im1{
+	width:100%;
+	max-height:320px;
+}
+
+#im2{
+	width:100%;
+	max-height:320px;				
+}
+#im3{
+	width:100%;
+	max-height:320px;				
+}
+
+#im4{
+	width:100%;
+	max-height:320px;				
+}	
+#im5{
+	width:100%;
+	max-height:320px;				
+}
+
+body{
+	background-color:rgb(192,192,192);
+}
